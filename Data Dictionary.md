@@ -1,6 +1,6 @@
 # Bank Marketing Dataset
-Delivering the Project on smaller scale which can be further replicated in Finance domain in real time.
 
+The marketing bank dataset gives information about a marketing campaign of a financial institution in which we will analyze ways to look for future strategies in order to improve future marketing campaigns for the bank.
 
 Variable Name | Description | Datatype | Contains Null Values
 ------------- | ----------- | -------- | --------------------
